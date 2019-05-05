@@ -1,0 +1,38 @@
+/*header{
+    background: blue;
+    height: 50%;
+}*/
+/*body{
+    background: #f0f3f5;
+    color: #fff;
+}*/
+/*section#logohtml{
+width: 1%;
+}
+section#banner{
+
+    width: 50%;
+}*/
+/*cabeza banner*/
+.banner3{
+	background-image: url(banner3.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 100vh;
+}
+footer {
+	padding: 20px 0;
+	background: #292b2c;
+}
+footer ul li{
+	list-style: none;
+	display: inline;
+}
+footer ul li a{
+	color: white;
+}
+footer div p{
+	color: white;
+}
